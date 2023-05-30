@@ -33,10 +33,16 @@ Masukan IP Address dan Username Client
 Lalu buat koneksi ke server dengan menekan Button Connect to server
 ![image](https://github.com/EdwardPatrick34/SocketTCPJarkom2023/assets/116498463/53c506ff-524b-445e-84bc-540fcef3b489)
 
-5. ![image](https://github.com/EdwardPatrick34/SocketTCPJarkom2023/assets/116498463/b075cce1-9eef-4e30-b9ff-51d136ea4e38)
+4. Tampilan Program Saat Terhubung dengan user (1)
+Di sisi sebelah kiri akan ada list user yang konek ke jaringan yang sama tinggal pilih dan mulai mengobrol
+![image](https://github.com/EdwardPatrick34/SocketTCPJarkom2023/assets/116498463/b075cce1-9eef-4e30-b9ff-51d136ea4e38)
 
-6. ![image](https://github.com/EdwardPatrick34/SocketTCPJarkom2023/assets/116498463/922c976c-dbba-4035-8704-21b7a1d0bb05)
+5. Tampilan Program Saat Terhubung dengan user (2)
+Gambar ini menjelaskan persepsi orang ke 2 berdasarkan foto nomor 4 
+![image](https://github.com/EdwardPatrick34/SocketTCPJarkom2023/assets/116498463/922c976c-dbba-4035-8704-21b7a1d0bb05)
 
-7. ![image](https://github.com/EdwardPatrick34/SocketTCPJarkom2023/assets/116498463/cd4730cf-3444-4fe6-9c0e-c1e06f890f11)
+6. Tampilan Server Saat Ada User yang Terhubung 
+Gambar ini menjelaskan saat ada user yang terhubung maka server akan memunculkan kata kata seperti di gambar berikut ini
+![image](https://github.com/EdwardPatrick34/SocketTCPJarkom2023/assets/116498463/cd4730cf-3444-4fe6-9c0e-c1e06f890f11)
 
 
