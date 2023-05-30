@@ -33,4 +33,7 @@ Masukan IP Address dan Username Client
 Lalu buat koneksi ke server dengan menekan Button Connect to server
 ![image](https://github.com/EdwardPatrick34/SocketTCPJarkom2023/assets/116498463/53c506ff-524b-445e-84bc-540fcef3b489)
 
-5. 
+5. ![image](https://github.com/EdwardPatrick34/SocketTCPJarkom2023/assets/116498463/b075cce1-9eef-4e30-b9ff-51d136ea4e38)
+
+6. ![image](https://github.com/EdwardPatrick34/SocketTCPJarkom2023/assets/116498463/922c976c-dbba-4035-8704-21b7a1d0bb05)
+
