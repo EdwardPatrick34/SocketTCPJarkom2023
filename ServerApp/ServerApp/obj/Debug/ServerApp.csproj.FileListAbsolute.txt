@@ -1,0 +1,40 @@
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ServerApp\ServerApp\obj\Debug\ServerApp.Form1.resources
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ServerApp\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.cache
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
+D:\Semester 6\JARKOM\projek tcp\project\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+D:\Semester 6\JARKOM\projek tcp\project\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+D:\Semester 6\JARKOM\projek tcp\project\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+D:\Semester 6\JARKOM\projek tcp\project\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+D:\Semester 6\JARKOM\projek tcp\project\ServerApp\ServerApp\obj\Debug\ServerApp.Form1.resources
+D:\Semester 6\JARKOM\projek tcp\project\ServerApp\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+D:\Semester 6\JARKOM\projek tcp\project\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.cache
+D:\Semester 6\JARKOM\projek tcp\project\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+D:\Semester 6\JARKOM\projek tcp\project\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+D:\Semester 6\JARKOM\projek tcp\project\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ServerApp\ServerApp\obj\Debug\ServerApp.Form1.resources
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ServerApp\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.cache
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
+D:\Semester 6\JARKOM\project tcp baru\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+D:\Semester 6\JARKOM\project tcp baru\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+D:\Semester 6\JARKOM\project tcp baru\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+D:\Semester 6\JARKOM\project tcp baru\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+D:\Semester 6\JARKOM\project tcp baru\ServerApp\ServerApp\obj\Debug\ServerApp.Form1.resources
+D:\Semester 6\JARKOM\project tcp baru\ServerApp\ServerApp\obj\Debug\ServerApp.Properties.Resources.resources
+D:\Semester 6\JARKOM\project tcp baru\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.GenerateResource.cache
+D:\Semester 6\JARKOM\project tcp baru\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+D:\Semester 6\JARKOM\project tcp baru\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+D:\Semester 6\JARKOM\project tcp baru\ServerApp\ServerApp\obj\Debug\ServerApp.pdb

@@ -1,0 +1,40 @@
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ClientApp\ClientApp\obj\Debug\ClientApp.Form1.resources
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ClientApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+D:\Data\Stts\11-Jarkom\2023 Ganjil\project\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+D:\Semester 6\JARKOM\projek tcp\project\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\Semester 6\JARKOM\projek tcp\project\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+D:\Semester 6\JARKOM\projek tcp\project\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+D:\Semester 6\JARKOM\projek tcp\project\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+D:\Semester 6\JARKOM\projek tcp\project\ClientApp\ClientApp\obj\Debug\ClientApp.Form1.resources
+D:\Semester 6\JARKOM\projek tcp\project\ClientApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+D:\Semester 6\JARKOM\projek tcp\project\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+D:\Semester 6\JARKOM\projek tcp\project\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\Semester 6\JARKOM\projek tcp\project\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+D:\Semester 6\JARKOM\projek tcp\project\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ClientApp\ClientApp\obj\Debug\ClientApp.Form1.resources
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ClientApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+D:\Data\Stts\11-Jarkom\2023 Ganjil\newproject\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+D:\Semester 6\JARKOM\project tcp baru\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\Semester 6\JARKOM\project tcp baru\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+D:\Semester 6\JARKOM\project tcp baru\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+D:\Semester 6\JARKOM\project tcp baru\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+D:\Semester 6\JARKOM\project tcp baru\ClientApp\ClientApp\obj\Debug\ClientApp.Form1.resources
+D:\Semester 6\JARKOM\project tcp baru\ClientApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+D:\Semester 6\JARKOM\project tcp baru\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+D:\Semester 6\JARKOM\project tcp baru\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\Semester 6\JARKOM\project tcp baru\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+D:\Semester 6\JARKOM\project tcp baru\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
