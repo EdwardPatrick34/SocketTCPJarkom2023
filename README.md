@@ -37,3 +37,6 @@ Lalu buat koneksi ke server dengan menekan Button Connect to server
 
 6. ![image](https://github.com/EdwardPatrick34/SocketTCPJarkom2023/assets/116498463/922c976c-dbba-4035-8704-21b7a1d0bb05)
 
+7. ![image](https://github.com/EdwardPatrick34/SocketTCPJarkom2023/assets/116498463/cd4730cf-3444-4fe6-9c0e-c1e06f890f11)
+
+
