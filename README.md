@@ -1,3 +1,10 @@
+# Nama Kelompok
+1. Calvin Adhikang - 220180494
+2. Harmanto Chiari - 220180502
+3. Ivander Wijaya - 220180504
+4. Jonathan Kriswanto - 220180505
+5. Edward Patrick - 220180515
+
 # SocketTCPJarkom2023
 Program Messaging(berbalas pesan) sederhana dengan menggunakan protocol TCP.
 Terdapat 2 program, yaitu: 
